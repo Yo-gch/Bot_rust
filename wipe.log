@@ -1,0 +1,146 @@
+2022-01-18 15:16:24,136 Rusticated.com - Main
+2022-01-18 15:17:05,640 {'Rusticated.com - Main'}
+2022-01-18 15:17:31,103 Rusticated.com - Main379232843
+2022-01-18 15:19:40,153 Rusticated.com - Main Online130 joueurs 39 ping 83733 secondes depuis le dernier wipe 4250x4250 379232843 map seed vanilla Weekly
+2022-01-18 15:20:24,374 Rusticated.com - Main -Online -130 joueurs -39 ping -83733 secondes depuis le dernier wipe -4250x4250 -379232843 map seed -vanilla -Weekly
+2022-01-18 15:20:54,019 Rusticated.com - Main - Online - 130 joueurs - 39 ping -83733 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:21:16,900 Rusticated.com - Main - Online - 130 joueurs - 38 ping - 83984 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:24:30,992 Rusticated.com - Main - Online - 130 joueurs - 38 ping - 83984 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:24:48,537 Rusticated.com - Main - Online - 130 joueurs - 38 ping - 83984 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:37:17,555 Rusticated.com - Main - Online - 133 joueurs - 40 ping - 84929 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:38:33,374 Rusticated.com - Main - Online - 133 joueurs - 40 ping - 84929 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:39:08,193 Rusticated.com - Main - Online - 133 joueurs - 40 ping - 84929 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:39:56,724 Rusticated.com - Main - Online - 133 joueurs - 40 ping - 84929 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:42:38,298 Rusticated.com - Main - Online - 134 joueurs - 39 ping - 85190 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:44:44,253 Rusticated.com - Main - Online - 134 joueurs - 39 ping - 0 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:44:52,833 Rusticated.com - Main - Online - 134 joueurs - 39 ping - 0 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:44:52,837 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:53,177 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:44:53,179 [1/1] Webhook executed
+2022-01-18 15:44:53,181 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:53,467 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:44:53,474 [1/1] Webhook executed
+2022-01-18 15:44:53,481 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:53,757 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:44:53,760 [1/1] Webhook executed
+2022-01-18 15:44:53,763 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:54,034 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:44:54,036 [1/1] Webhook executed
+2022-01-18 15:44:54,038 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:54,303 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:44:54,304 [1/1] Webhook executed
+2022-01-18 15:44:54,306 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:54,495 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 429 90
+2022-01-18 15:44:54,496 [1/1] Webhook status code 429: {
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 573
+}
+
+2022-01-18 15:44:54,498 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:54,703 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 429 90
+2022-01-18 15:44:54,704 [1/1] Webhook status code 429: {
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 370
+}
+
+2022-01-18 15:44:54,706 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:54,928 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 429 90
+2022-01-18 15:44:54,930 [1/1] Webhook status code 429: {
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 148
+}
+
+2022-01-18 15:44:54,931 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:44:55,218 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:44:55,225 [1/1] Webhook executed
+2022-01-18 15:44:55,233 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:45:16,365 Rusticated.com - Main - Online - 134 joueurs - 39 ping - 0 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:45:16,366 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:45:16,635 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:45:16,636 [1/1] Webhook executed
+2022-01-18 15:45:16,638 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:45:16,895 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:45:16,897 [1/1] Webhook executed
+2022-01-18 15:45:16,898 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:05,066 Rusticated.com - Main - Online - 134 joueurs - 37 ping - 0 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:47:05,074 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:05,330 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:05,333 [1/1] Webhook executed
+2022-01-18 15:47:05,336 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:05,624 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:05,625 [1/1] Webhook executed
+2022-01-18 15:47:05,627 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:05,897 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:05,898 [1/1] Webhook executed
+2022-01-18 15:47:05,900 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:06,191 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:06,192 [1/1] Webhook executed
+2022-01-18 15:47:06,194 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:06,498 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:06,500 [1/1] Webhook executed
+2022-01-18 15:47:06,502 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:06,702 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 429 90
+2022-01-18 15:47:06,703 [1/1] Webhook status code 429: {
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 591
+}
+
+2022-01-18 15:47:06,706 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:06,944 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 429 90
+2022-01-18 15:47:06,946 [1/1] Webhook status code 429: {
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 358
+}
+
+2022-01-18 15:47:06,948 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:07,169 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 429 90
+2022-01-18 15:47:07,171 [1/1] Webhook status code 429: {
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 136
+}
+
+2022-01-18 15:47:07,173 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:07,446 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:07,447 [1/1] Webhook executed
+2022-01-18 15:47:07,449 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:07,764 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:07,766 [1/1] Webhook executed
+2022-01-18 15:47:07,767 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:08,045 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:08,067 [1/1] Webhook executed
+2022-01-18 15:47:08,069 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:27,889 Rusticated.com - Main - Online - 134 joueurs - 37 ping - 0 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:47:27,891 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:28,233 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:28,234 [1/1] Webhook executed
+2022-01-18 15:47:28,236 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:28,463 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:28,465 [1/1] Webhook executed
+2022-01-18 15:47:28,466 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:28,830 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:28,835 [1/1] Webhook executed
+2022-01-18 15:47:28,837 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:29,098 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:29,102 [1/1] Webhook executed
+2022-01-18 15:47:29,106 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:29,336 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:29,337 [1/1] Webhook executed
+2022-01-18 15:47:29,339 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:29,544 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 429 90
+2022-01-18 15:47:29,546 [1/1] Webhook status code 429: {
+  "global": false, 
+  "message": "You are being rate limited.", 
+  "retry_after": 605
+}
+
+2022-01-18 15:47:29,548 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:57,847 Rusticated.com - Main - Online - 134 joueurs - 37 ping - 0 secondes depuis le dernier wipe - 4250x4250 - 379232843 map seed - vanilla - Weekly
+2022-01-18 15:47:57,855 Starting new HTTPS connection (1): discordapp.com:443
+2022-01-18 15:47:58,157 https://discordapp.com:443 "POST /api/webhooks/932624652533108776/x20k5XUbiaLfxcm21anDYFh0bBCZyNB6i5Hq1WDlF2mQiz0P_npjViDdyTttluIFNoAj?wait=True HTTP/1.1" 200 None
+2022-01-18 15:47:58,161 [1/1] Webhook executed
